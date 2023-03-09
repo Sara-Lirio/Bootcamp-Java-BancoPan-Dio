@@ -32,27 +32,27 @@ Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa e
  <h2><b>4. </b>Dominando Algoritmos Básicos com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/60f4813a-32a0-4678-8422-e8cd245ca679.png" width="40px;"  align="left"/>
   <p>Desafio: Fábrica de Carros<br/>
-     Resolução:
+     Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/FabricaDeCarros.java
   </p>
   
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/58d75a61-a540-47da-8347-6b97ebf38243.png" width="40px;"  align="left"/>
   <p>Desafio: Imprimindo Positivos e Média<br/>
-     Resolução:
+     Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/ImprimindoPositivosEMedia.java
   </p>
   
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/f9183e4f-44e0-4054-9cc2-888912c6f941.png" width="40px;"  align="left"/>
   <p>Desafio: Soma de H com N Termos<br/>
-     Resolução:
+     Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/SomaDeHeNTermos.java
   </p>
   
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/a632bcdc-d12d-4429-956b-b51b76e71af2.png" width="40px;"  align="left"/>
   <p>Desafio: Dragão!<br/>
-     Resolução:
+     Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/Dragao.java
   </p>
   
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/25344ae3-7f05-4aed-9ef7-ff15ac685e5b.png" width="40px;"  align="left"/>
   <p>Desafio: Fibonacci Fácil<br/>
-     Resolução:
+     Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/FibonacciFacil.java
   </p>
 
 <footer>
