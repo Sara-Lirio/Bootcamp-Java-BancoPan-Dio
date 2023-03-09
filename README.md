@@ -1,6 +1,6 @@
 <h1>Banco PAN Java Developer  <img src="https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2020_08_04/4hlf3xLe1SqtdpyDV0sU.png" width="40px;" /></h1>
 
-<img src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="400px;" align="right" />
+<img src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="380px;" align="right" />
 
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="left"  width="40px;"/>
 Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa em Java Spring Boot.
@@ -29,6 +29,9 @@ Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa e
 <h4><b>Overview de Computação em Nuvem</b></h4>
 <h4><b>Engenharia de Confiabilidade de Site (SRE)</b></h4>
 
+<h2><b>1. <b>Prepare-se para a Jornada</h2>
+<p>Introdução ao Desenvolvimento Moderno de Software (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software.png">Certificado</a>)</p> 
+
  <h2><b>4. </b>Dominando Algoritmos Básicos com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/60f4813a-32a0-4678-8422-e8cd245ca679.png" width="40px;"  align="left"/>
   <p>Desafio: Fábrica de Carros<br/>
@@ -53,6 +56,32 @@ Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa e
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/25344ae3-7f05-4aed-9ef7-ff15ac685e5b.png" width="40px;"  align="left"/>
   <p>Desafio: Fibonacci Fácil<br/>
      Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/FibonacciFacil.java
+  </p>
+  
+  <h2><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</h2>
+  <img src="https://hermes.digitalinnovation.one/code_challenge/badge/21d59a71-9a38-450f-ade5-8abb51194671.png" width="40px;"  align="left"/>
+  <p>Desafio: Animal<br/>
+     Resolução:
+  </p>
+  
+   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/b5854bd5-53b3-4eae-85bb-72f2f230689f.png" width="40px;"  align="left"/>
+  <p>Desafio: Quintanda do Zé<br/>
+     Resolução:
+  </p>
+  
+   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/a118d823-8724-411d-ab06-291d4a6b053b.png" width="40px;"  align="left"/>
+  <p>Desafio: Triângulo<br/>
+     Resolução:
+  </p>
+  
+  <img src="https://hermes.digitalinnovation.one/code_challenge/badge/0792eb45-7dac-4685-b03c-bf4d225e121c.png" width="40px;"  align="left"/>
+  <p>Desafio: Conta Espaço e Vogais<br/>
+     Resolução:
+  </p>
+  
+  <img src="https://hermes.digitalinnovation.one/code_challenge/badge/5219c176-a740-4d0b-9e09-d1a158fca709.png" width="40px;"  align="left"/>
+  <p>Desafio: Taxa de Imposto de Renda<br/>
+     Resolução:
   </p>
 
 <footer>
