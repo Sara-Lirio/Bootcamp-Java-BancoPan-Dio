@@ -75,6 +75,10 @@ Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa e
      Resolução: https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/src/src/Challenges/FibonacciFacil.java
   </p>
   
+  <h2><b>5. </b>Programação Orientada a Objetos com Java</h2>
+  <p>Programação Orientada a Objetos com Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20Java.png">Certificado</a>)</p>
+  <p>Trabalhando com Collections Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20com%20Collections%20Java.png">Certificado</a>)</p>
+  
   <h2><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/21d59a71-9a38-450f-ade5-8abb51194671.png" width="40px;"  align="left"/>
   <p>Desafio: Animal<br/>
