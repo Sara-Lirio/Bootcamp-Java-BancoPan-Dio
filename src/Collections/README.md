@@ -1,4 +1,4 @@
 # Collections
 
-<img src="..\..\src\assets\Collections.png" />
+<img src="../../assets/Collections.png" />
 
