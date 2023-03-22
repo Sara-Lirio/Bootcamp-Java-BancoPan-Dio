@@ -76,8 +76,26 @@ Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa e
   </p>
   
   <h2><b>5. </b>Programação Orientada a Objetos com Java</h2>
-  <p>Programação Orientada a Objetos com Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20Java.png">Certificado</a>)</p>
-  <p>Trabalhando com Collections Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20com%20Collections%20Java.png">Certificado</a>)</p>
+  <p>
+  Programação Orientada a Objetos com Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20Java.png">Certificado</a>)</p>
+  
+  <p> 
+  Trabalhando com Collections Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20com%20Collections%20Java.png">Certificado</a>)</p>
+  
+  <p> 
+  Debugging Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Debugging%20Java.png">Certificado</a>)</p>
+  
+  <p> 
+  Tratamento de Exceções em Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Tratamento%20de%20Exce%C3%A7%C3%B5es%20em%20Java.png">Certificado</a>)</p>
+  
+  <p> 
+  Gerenciamento de Depências e Build em Java com Maven (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Gerenciamento%20de%20Depend%C3%AAncias%20e%20Build%20em%20Java%20com%20Maven.png">Certificado</a>)</p>
+  
+  <p>
+  Testes Unitários Com JUnit (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Testes%20Unit%C3%A1rios%20com%20JUnit.png">Certificado</a>)</p>
+  
+  <p>Abstraindo um Bootcamp Usando Orientação a Objetos em Java (<a href="https://github.com/Sara-Lirio/desafio-poo-dio">Projeto Desafio</a>)</p>
+  
   
   <h2><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/21d59a71-9a38-450f-ade5-8abb51194671.png" width="40px;"  align="left"/>
