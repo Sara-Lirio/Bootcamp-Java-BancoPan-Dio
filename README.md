@@ -1,13 +1,12 @@
 <h1>Banco PAN Java Developer  <img src="https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2020_08_04/4hlf3xLe1SqtdpyDV0sU.png" width="40px;" /></h1>
 
 <img src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="380px;" align="right" />
-<h2>Conteúdo:</h2>
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="left"  width="40px;"/>
+
 Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa em Java Spring Boot.
 
-
-
+<h2>Conteúdo:</h2>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="left"  width="40px;"/>
 <p><b>1. </b>Prepare-se para a Jornada</p>
 <p><b>2. </b>Princípios de Desenvolvimento de Software</p>
 <p><b>3. </b>Conhecendo a Linguagem de Programação Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Conceitos%20B%C3%A1sicos%20Java">Conceitos Básicos Java</a>)</p> 
