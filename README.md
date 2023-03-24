@@ -9,8 +9,8 @@ Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa e
 
 <p><b>1. </b>Prepare-se para a Jornada</p>
 <p><b>2. </b>Princípios de Desenvolvimento de Software</p>
-<p><b>3. </b>Conhecendo a Linguagem de Programação Java</p>
-<p><b>4. </b>Dominando Algoritmos Básicos com Desafios de Código Java</p>
+<p><b>3. </b>Conhecendo a Linguagem de Programação Java (<a href="">Conceítos Básicos Java</a>)</p> 
+<p><b>4. </b>Dominando Algoritmos Básicos com Desafios de Código Java (<a href="">Challenges</a>)</p>
 <p><b>5. </b>Programação Orientada a Objetos com Java</p>
 <p><b>6. </b>Trabalhando com Banco de Dados SQL e NoSQL</p>
 <p><b>7. </b>Ganhando Produtividade com Spring Framework</p>
