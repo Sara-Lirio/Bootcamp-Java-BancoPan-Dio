@@ -18,18 +18,6 @@
 <p><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</p>
 
 
-<h2>Mentorias e meus Artigos/Resumos</h2>
-
-<p><b>Pirâmide de Testes e TDD</b>
-- https://www.notion.so/Pir-mide-de-Teste-e-TDD-207892d0853d45fb9e5e5e3e10d78fdb</p>
-
-
-<p><b>Solid e Boas práticas</b>
- - https://www.notion.so/Solid-e-Boas-Pr-ticas-Resumo-59c01bb5aa6441eaade8e537d5e06767
- </p> 
-
-<p><b>Overview de Computação em Nuvem</b></p>
-<p><b>Engenharia de Confiabilidade de Site (SRE)</b></p>
 
 <h2><b>1. </b>Prepare-se para a Jornada</h2>
 <p>Conheça as Oportunidades da DIO (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.png">Certificado</a>)</p>
@@ -124,6 +112,20 @@
   <p>Desafio: Taxa de Imposto de Renda<br/>
      Resolução:
   </p>
+
+<h2>Mentorias e meus Artigos/Resumos</h2>
+
+<p><b>Pirâmide de Testes e TDD</b>
+- https://www.notion.so/Pir-mide-de-Teste-e-TDD-207892d0853d45fb9e5e5e3e10d78fdb</p>
+
+
+<p><b>Solid e Boas práticas</b>
+ - https://www.notion.so/Solid-e-Boas-Pr-ticas-Resumo-59c01bb5aa6441eaade8e537d5e06767
+ </p> 
+
+<p><b>Overview de Computação em Nuvem</b></p>
+<p><b>Engenharia de Confiabilidade de Site (SRE)</b></p>
+
 
 <footer>
   <img src="https://cdn.cookielaw.org/logos/82b81c01-85cd-4ada-9c9d-656b3e5682dd/9be12e3b-5e10-436c-826d-d0dfc661f023/9c073e0c-345d-4dae-a9c4-b55a6c15e17f/banco-pan-logo-8.png" width="160px;" align="right" />
