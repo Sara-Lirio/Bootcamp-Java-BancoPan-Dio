@@ -1,8 +1,9 @@
 <h1>Banco PAN Java Developer  <img src="https://storage.googleapis.com/cars2you-fe381.appspot.com/arquivos/2020_08_04/4hlf3xLe1SqtdpyDV0sU.png" width="40px;" /></h1>
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="left"  width="40px;"/>
-Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa em Java Spring Boot.
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" align="left"  width="35px;"/>
+<p>Primeiro programa do Banco PAN em parceria com a DIO conta uma trilha completa em Java Spring Boot.
+<br/>Esse repositório é dedicado aos estudos durante o Bootcamp de Java Spring boot </p>
 
 <h2>Conteúdo:</h2>
 <img src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png" width="380px;" align="right" />
