@@ -20,15 +20,16 @@
 
 <h2>Mentorias e meus Artigos/Resumos</h2>
 
-<h4><b>Pirâmide de Testes e TDD</b>
-- https://www.notion.so/Pir-mide-de-Teste-e-TDD-207892d0853d45fb9e5e5e3e10d78fdb</h4>
+<p><b>Pirâmide de Testes e TDD</b>
+- https://www.notion.so/Pir-mide-de-Teste-e-TDD-207892d0853d45fb9e5e5e3e10d78fdb</p>
 
 
-<h4><b>Solid e Boas práticas</b>
- - https://www.notion.so/Solid-e-Boas-Pr-ticas-Resumo-59c01bb5aa6441eaade8e537d5e06767</h4> 
+<p><b>Solid e Boas práticas</b>
+ - https://www.notion.so/Solid-e-Boas-Pr-ticas-Resumo-59c01bb5aa6441eaade8e537d5e06767
+ </p> 
 
-<h4><b>Overview de Computação em Nuvem</b></h4>
-<h4><b>Engenharia de Confiabilidade de Site (SRE)</b></h4>
+<p><b>Overview de Computação em Nuvem</b></p>
+<p><b>Engenharia de Confiabilidade de Site (SRE)</b></p>
 
 <h2><b>1. </b>Prepare-se para a Jornada</h2>
 <p>Conheça as Oportunidades da DIO (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.png">Certificado</a>)</p>
