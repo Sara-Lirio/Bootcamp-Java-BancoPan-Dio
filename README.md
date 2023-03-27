@@ -39,6 +39,7 @@
 <p>Estruturas de Repetição e Arrays em Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java.png">Certificado</a>)
 | (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Loops">Conteúdo</a>)
 </p>
+<img src="./assets/btn_certificado.png" />
 
 <p>Estrutura de dados em Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estrutura%20de%20dados%20em%20Java.png">Certificado</a>)</p>
 <p>Entendendo Métodos Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Entendendo%20M%C3%A9todos%20Java.png">Certificado</a>)</p>
