@@ -20,29 +20,30 @@
 
 
 <h2><b>1. </b>Prepare-se para a Jornada</h2>
-<p>Conheça as Oportunidades da DIO <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.png"><img src="./assets/btn_certificado.png" width="80"  align="right" /></a></p>
-<p>Seja Protagonista Neste Bootcamp <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Seja%20Protagonista%20Neste%20Bootcamp.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Introdução ao Desenvolvimento Moderno de Software <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p> 
+<p><img src="./assets/check_in.png" width="25" />Conheça as Oportunidades da DIO <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Conhe%C3%A7a%20as%20Oportunidades%20da%20DIO.png"><img src="./assets/btn_certificado.png" width="80"  align="right" /></a></p>
+<p><img src="./assets/check_in.png" width="25" />Seja Protagonista Neste Bootcamp <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Seja%20Protagonista%20Neste%20Bootcamp.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Introdução ao Desenvolvimento Moderno de Software <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20ao%20Desenvolvimento%20Moderno%20de%20Software.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p> 
 
 <h2><b>2. </b>Princípios de Desenvolvimento de Software</h2>
-<p>Introdução à Programação e Pensamento Computacional <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20e%20Pensamento%20Computacional.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Trabalhando em Equipes Ágeis <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20em%20Equipes%20%C3%81geis.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Introdução ao Git e ao Github <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20Github.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Como Entregar seu Desafio de Projeto <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Como%20Entregar%20seu%20Desafio%20de%20Projeto.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Criando seu Primeiro Repositório no Github <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Criando%20seu%20Primeiro%20Reposit%C3%B3rio%20no%20Github.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Introdução à Programação e Pensamento Computacional <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20e%20Pensamento%20Computacional.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Trabalhando em Equipes Ágeis <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20em%20Equipes%20%C3%81geis.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Introdução ao Git e ao Github <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20Github.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Como Entregar seu Desafio de Projeto <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Como%20Entregar%20seu%20Desafio%20de%20Projeto.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Criando seu Primeiro Repositório no Github <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Criando%20seu%20Primeiro%20Reposit%C3%B3rio%20no%20Github.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 
 <h2><b>3. </b>Conhecendo a Linguagem de Programação Java</h2>
-<p>Dominando IDEs Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Dominando%20IDEs%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Aprendendo a Sintaxe Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Aprendendo%20a%20Sintaxe%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>
+<p><img src="./assets/check_in.png" width="25" />
+Dominando IDEs Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Dominando%20IDEs%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Aprendendo a Sintaxe Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Aprendendo%20a%20Sintaxe%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>
  <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Conceitos%20B%C3%A1sicos%20Java"><img src="./assets/btn_conteudo.png" width="80"  /></a></p>
-<p>Lógica Condicional e Controle de Fluxos em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Estruturas de Repetição e Arrays em Java 
+<p><img src="./assets/check_in.png" width="25" />Lógica Condicional e Controle de Fluxos em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Estruturas de Repetição e Arrays em Java 
  <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Loops"><img src="./assets/btn_conteudo.png" width="80"  /></a>
 <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>
 </p>
 
-<p>Estrutura de dados em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estrutura%20de%20dados%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Entendendo Métodos Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Entendendo%20M%C3%A9todos%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Estrutura de dados em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estrutura%20de%20dados%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" />Entendendo Métodos Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Entendendo%20M%C3%A9todos%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 
  <h2><b>4. </b>Dominando Algoritmos Básicos com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/60f4813a-32a0-4678-8422-e8cd245ca679.png" width="40px;"  align="left"/>
@@ -101,7 +102,7 @@
 <p>Imersão no Spring Framework com Spring Boot <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 <p>Criando uma API REST Documentada com Spring Web 
 e Swagger <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Adicionando Segurança a uma API REST com Spring Security <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>)</p>
+<p>Adicionando Segurança a uma API REST com Spring Security <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 <p>Conhecendo Spring Data JPA na prática com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 <p>Criando uma API REST Conectada ao Amazon RDS com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 <p>Explorando Padrões de Projetos na Prática com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
