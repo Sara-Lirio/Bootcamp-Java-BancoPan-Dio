@@ -85,8 +85,22 @@
   Testes Unitários Com JUnit (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Testes%20Unit%C3%A1rios%20com%20JUnit.png">Certificado</a>)</p>
   
   <p>Abstraindo um Bootcamp Usando Orientação a Objetos em Java (<a href="https://github.com/Sara-Lirio/desafio-poo-dio">Projeto Desafio</a>)</p>
-  
-  
+
+<h2><b>6. </b>Trabalhando com Banco de Dados SQL e NoSQL</h2>
+<p>Primeiros Passos com SQL (<a href="">Certificado</a>) </p>
+<p>Introdução ao MongoDB e Banco de Dados NoSQL (<a href="">Certificado</a>) </p>
+<p>Boas práticas com DynamoDB (<a href="">Certificado</a>) </p>
+
+<h2><b>7. </b>Ganhando Produtividade com Spring Framework</h2>
+<p>Principais Protocolos de Comunicação da Internet (<a href="">Certificado</a>)</p>
+<p>Imersão no Spring Framework com Spring Boot (<a href="">Certificado</a>)</p>
+<p>Criando uma API REST Documentada com Spring Web 
+e Swagger (<a href="">Certificado</a>)</p>
+<p>Adicionando Segurança a uma API REST com Spring Security (<a href="">Certificado</a>)</p>
+<p>Conhecendo Spring Data JPA na prática com Java (<a href="">Certificado</a>)</p>
+<p>Criando uma API REST Conectada ao Amazon RDS com Java (<a href="">Certificado</a>)</p>
+<p>Explorando Padrões de Projetos na Prática com Java (<a href="">Certificado</a>)</p>
+
   <h2><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/21d59a71-9a38-450f-ade5-8abb51194671.png" width="40px;"  align="left"/>
   <p>Desafio: Animal<br/>
