@@ -37,12 +37,9 @@
 | (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Conceitos%20B%C3%A1sicos%20Java">Conteúdo</a>)</p>
 <p>Lógica Condicional e Controle de Fluxos em Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java.png">Certificado</a>)</p>
 <p>Estruturas de Repetição e Arrays em Java 
-(<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java.png"><img src="./assets/btn_certificado.png" width="30"/></a>)
-| (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Loops"><img src="./assets/btn_conteudo.png" width="30"/></a>)
+<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java.png"><img src="./assets/btn_certificado.png" width="30"/></a>
+| <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Loops"><img src="./assets/btn_conteudo.png" width="30"/></a>
 </p>
-
-
-
 
 <p>Estrutura de dados em Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estrutura%20de%20dados%20em%20Java.png">Certificado</a>)</p>
 <p>Entendendo Métodos Java (<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Entendendo%20M%C3%A9todos%20Java.png">Certificado</a>)</p>
