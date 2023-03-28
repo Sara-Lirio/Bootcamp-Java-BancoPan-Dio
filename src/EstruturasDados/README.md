@@ -42,6 +42,6 @@ sem realizar qualquer modificação.</p>
 
 <h2>Listas Encadeadas</h2>
 
-<img src="../../assets/Fila.png" />
+
 
 <p><b>Métodos:</b> Add, Remove,get, getNo </p>

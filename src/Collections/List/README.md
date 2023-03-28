@@ -1,9 +1,10 @@
 <h1>List</h1>
 
-Declarando
-List<String> linguagens = new ArrayLit<String>();
+<p>Elementos duplicados e garante ordem de inserção.</p>
+<p><b>Declarando - </b>
+ List<String> linguagens = new ArrayList<String>(); </p>
 
-Métodos
+<p><b>Métodos:</b></p>
 linguagens.add("Java"); //Adiciona a linguagens
 
 linguagens.contains("Java"); //Verifica se na lista contém a linguagem Java
@@ -13,6 +14,12 @@ linguagens.size(); //Retorna a quantidade de elementos da lista
 linguagens.indexOf("Java"); //Retorna o indice onde o elemento 'Java' foi armazenado -> 0
 
 linguagens.clear(); //Limpa a lista
+
+
+ArrayList (implementação) - deve ser usado aonde mais operações de pesquisa ssão necessárias
+
+LinkedList - dever ser uado onde mais operações de inserção e exclusão são necessárias
+Vector - Threads
 
 
 <h2>Exercícios Propostos</h2> 

@@ -14,11 +14,13 @@ sejam manipuladas tendo como base o conceito “Programar para interfaces e não
 implementações”, desde que o acesso aos objetos se restrinja apenas ao uso de métodos
 definidos nas interfaces.</p>
 
-<h3>Set</h3> 
+<h3>Set</h3>
+<b>java.util.Set</b>
 <p>Interface que define uma coleção que não permite elementos duplicados.</p>
 E ordena de forma alfabetica
 
 <h3>List</h3>
+<b>java.util.List</b>
 <p>Define uma coleção ordenada, podendo conter elementos duplicados. 
 Em geral, o usuário tem controle total sobre a posição onde cada elemento 
 é inserido e pode recuperá-los através de seus índices. Prefira esta interface 
@@ -36,6 +38,8 @@ chave e um valor.</p>
 <p>Importante lembrar que a interface Map não são derivadas de Collection</p>
 <p>Elementos únicos, apenas uma chave(key) para cada valor(value)</p>
 é possivel ordernar map pelo valor
+
+---
 
 ordem de performance das implementações da interface Set 
 HashSet > LinkedHashSet > treeset
