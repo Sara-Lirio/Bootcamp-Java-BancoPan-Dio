@@ -73,10 +73,12 @@ Dominando IDEs Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPa
   
   <h2><b>5. </b>Programação Orientada a Objetos com Java</h2>
   <p><img src="./assets/check_in.png" width="25" />
-  Programação Orientada a Objetos com Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+  Programação Orientada a Objetos com Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/POO"><img src="./assets/btn_conteudo.png" width="80"  /></a>
+<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
   <p> <img src="./assets/check_in.png" width="25" />
-  Trabalhando com Collections Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20com%20Collections%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+  Trabalhando com Collections Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Collections"><img src="./assets/btn_conteudo.png" width="80"  /></a>
+<a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20com%20Collections%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
   <p> <img src="./assets/check_in.png" width="25" />
   Debugging Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Debugging%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
@@ -93,19 +95,19 @@ Dominando IDEs Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPa
   <p> <img src="./assets/check_in.png" width="25" /> Abstraindo um Bootcamp Usando Orientação a Objetos em Java <a href="https://github.com/Sara-Lirio/desafio-poo-dio"><img src="./assets/btn_projeto.png" width="80"/></a></p>
 
 <h2><b>6. </b>Trabalhando com Banco de Dados SQL e NoSQL</h2>
-<p>Primeiros Passos com SQL <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
-<p>Introdução ao MongoDB e Banco de Dados NoSQL <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
-<p>Boas práticas com DynamoDB <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
+<p><img src="./assets/check_in.png" width="25" /> Primeiros Passos com SQL <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
+<p><img src="./assets/check_in.png" width="25" /> Introdução ao MongoDB e Banco de Dados NoSQL <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
+<p><img src="./assets/check_in.png" width="25" /> Boas práticas com DynamoDB <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
 
 <h2><b>7. </b>Ganhando Produtividade com Spring Framework</h2>
-<p>Principais Protocolos de Comunicação da Internet <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Imersão no Spring Framework com Spring Boot <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Criando uma API REST Documentada com Spring Web 
+<p><img src="./assets/check_in.png" width="25" /> Principais Protocolos de Comunicação da Internet <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" /> Imersão no Spring Framework com Spring Boot <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" /> Criando uma API REST Documentada com Spring Web 
 e Swagger <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Adicionando Segurança a uma API REST com Spring Security <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Conhecendo Spring Data JPA na prática com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Criando uma API REST Conectada ao Amazon RDS com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p>Explorando Padrões de Projetos na Prática com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" /> Adicionando Segurança a uma API REST com Spring Security <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" /> Conhecendo Spring Data JPA na prática com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" /> Criando uma API REST Conectada ao Amazon RDS com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p><img src="./assets/check_in.png" width="25" /> Explorando Padrões de Projetos na Prática com Java <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 
   <h2><b>8. </b>Dominando Algoritmos Intermediários com Desafios de Código Java</h2>
   <img src="https://hermes.digitalinnovation.one/code_challenge/badge/21d59a71-9a38-450f-ade5-8abb51194671.png" width="40px;"  align="left"/>
