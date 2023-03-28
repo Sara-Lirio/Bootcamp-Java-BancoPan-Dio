@@ -32,12 +32,12 @@
 <p><img src="./assets/check_in.png" width="25" />Criando seu Primeiro Repositório no Github <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Criando%20seu%20Primeiro%20Reposit%C3%B3rio%20no%20Github.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
 
 <h2><b>3. </b>Conhecendo a Linguagem de Programação Java</h2>
-<p><img src="./assets/check_in.png" width="25" />
+<p> <img src="./assets/check_in.png" width="25" />
 Dominando IDEs Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Dominando%20IDEs%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p><img src="./assets/check_in.png" width="25" />Aprendendo a Sintaxe Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Aprendendo%20a%20Sintaxe%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>
+<p> <img src="./assets/check_in.png" width="25" />Aprendendo a Sintaxe Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Aprendendo%20a%20Sintaxe%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>
  <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Conceitos%20B%C3%A1sicos%20Java"><img src="./assets/btn_conteudo.png" width="80"  /></a></p>
-<p><img src="./assets/check_in.png" width="25" />Lógica Condicional e Controle de Fluxos em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
-<p><img src="./assets/check_in.png" width="25" />Estruturas de Repetição e Arrays em Java 
+<p> <img src="./assets/check_in.png" width="25" />Lógica Condicional e Controle de Fluxos em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20L%C3%B3gica%20Condicional%20e%20Controle%20de%20Fluxos%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
+<p> <img src="./assets/check_in.png" width="25" />Estruturas de Repetição e Arrays em Java 
  <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/tree/main/src/Loops"><img src="./assets/btn_conteudo.png" width="80"  /></a>
 <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Estruturas%20de%20Repeti%C3%A7%C3%A3o%20e%20Arrays%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a>
 </p>
@@ -72,25 +72,25 @@ Dominando IDEs Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPa
   </p>
   
   <h2><b>5. </b>Programação Orientada a Objetos com Java</h2>
-  <p>
+  <p><img src="./assets/check_in.png" width="25" />
   Programação Orientada a Objetos com Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20com%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
-  <p> 
+  <p> <img src="./assets/check_in.png" width="25" />
   Trabalhando com Collections Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Trabalhando%20com%20Collections%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
-  <p> 
+  <p> <img src="./assets/check_in.png" width="25" />
   Debugging Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Debugging%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
-  <p> 
+  <p> <img src="./assets/check_in.png" width="25" />
   Tratamento de Exceções em Java <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Tratamento%20de%20Exce%C3%A7%C3%B5es%20em%20Java.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
-  <p> 
+  <p> <img src="./assets/check_in.png" width="25" />
   Gerenciamento de Depências e Build em Java com Maven <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Gerenciamento%20de%20Depend%C3%AAncias%20e%20Build%20em%20Java%20com%20Maven.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
-  <p>
+  <p> <img src="./assets/check_in.png" width="25" />
   Testes Unitários Com JUnit <a href="https://github.com/Sara-Lirio/Bootcamp-Java-BancoPan-Dio/blob/main/assets/Certificado%20-%20Testes%20Unit%C3%A1rios%20com%20JUnit.png"><img src="./assets/btn_certificado.png" width="80"  align="right"/></a></p>
   
-  <p>Abstraindo um Bootcamp Usando Orientação a Objetos em Java (<a href="https://github.com/Sara-Lirio/desafio-poo-dio">Projeto Desafio</a>)</p>
+  <p> <img src="./assets/check_in.png" width="25" /> Abstraindo um Bootcamp Usando Orientação a Objetos em Java <a href="https://github.com/Sara-Lirio/desafio-poo-dio"><img src="./assets/btn_projeto.png" width="80"/></a></p>
 
 <h2><b>6. </b>Trabalhando com Banco de Dados SQL e NoSQL</h2>
 <p>Primeiros Passos com SQL <a href=""><img src="./assets/btn_certificado.png" width="80"  align="right"/></a> </p>
@@ -148,8 +148,9 @@ e Swagger <a href=""><img src="./assets/btn_certificado.png" width="80"  align="
 
 
 <footer>
+<h2></h2>
   <img src="https://cdn.cookielaw.org/logos/82b81c01-85cd-4ada-9c9d-656b3e5682dd/9be12e3b-5e10-436c-826d-d0dfc661f023/9c073e0c-345d-4dae-a9c4-b55a6c15e17f/banco-pan-logo-8.png" width="160px;" align="right" />
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" align="right" width="160px;"/>
-  <h5>https://web.dio.me/track/banco-pan-java-developer</h5>
-  <h5>https://www.bancopan.com.br/</h5>
+  <p>https://web.dio.me/track/banco-pan-java-developer</p>
+  <p>https://www.bancopan.com.br/</p>
 </footer>
