@@ -1,4 +1,4 @@
-<h1>Estruturas de Daods em Java</h1>
+<h1>Estruturas de Dados em Java</h1>
 
 <h2>Pilhas</h2>
 
@@ -12,8 +12,6 @@
 
 <p><b>Métodos:</b> Top, Push e Pop</p>
 
-<img src="https://blog.pantuza.com/uploads/0acdbb0fb64f0caee8a61d66bc6d4b38c567ab7e" align="right" width="200"/>
-
 
 <p><b>Top</b> - Mantém o último elemento(do topo) na pilha. 
 Porém ele captura apenas as informações, 
@@ -25,7 +23,7 @@ sem realizar qualquer modificação.</p>
 
 <p><b>isEmpty</b> - Informa verdadeiro ou falso se a pilha estiver vazia.</p>
 
-<br/>
+<br/><br/>
 <h2>Filas</h2>
 <img src="https://cdn-icons-png.flaticon.com/512/5928/5928200.png" align="right" width="120" />
 <p><b>FIFO:</b> First in, First out</p>
